@@ -15,6 +15,9 @@ The Repository contains all the files to recreate the Sight Beyond Sight Website
 
 [Click Here](https://lablab.ai/event/openai-hackathon/galacticos/sight-beyond-sight)
 
+## Certificate
+
+[Click Here](https://lablab.ai/u/@tejas_rathod789/clfglptjq002oa90s228ljs68)
 
 ![Logo](https://github.com/TejasARathod/SightBeyondSight/blob/0ca71e78e2f38b2becfeb3096413cea279397b0f/Intro.jpg)
 
